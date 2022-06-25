@@ -1,0 +1,26 @@
+.blue {
+    color:blue;
+}
+.red {
+    color:lightcoral;
+}
+.blue {
+    color:skyblue
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+#itemList { font-size: 1.5rem;}
+.show { display: block;}
+.hide { display: none;}
+body{
+    background-color: wheat;
+}
+.row    {
+    width: 50%;
+    position:absolute;
+    background-color:rgb(161, 196, 219);
+    border-color: darkgray;
+    border-radius: 5%;
+    margin-left: 15%;
+}
